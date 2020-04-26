@@ -1,0 +1,86 @@
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+    
+  
+    
+}
+h1{
+    margin: 0 auto 0 auto;
+    font-family:'sacramento',cursive;
+    font-weight: bolder;
+}
+
+.top-container{
+   padding-top: 100px;
+    background-color:#FFFFFF;
+   text-align: center;
+    position: relative;
+}
+.the-name{
+    position: relative;
+}
+.name{
+    padding-top: 5%;
+}
+.cat3{
+    position: absolute;
+    left:24%;
+    height: 250px;
+}
+.cat4{
+   position: absolute;
+    right:23%;
+    height: 250px;
+    top:0%;
+}
+.middle-container{
+    background-color:#D5DBDB ;
+   background-image: url("middle.png");
+    margin: auto;
+}
+.bottom-container{
+    background-color:#BFC9CA;
+   text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+/*.links{
+   padding-left: 200px;
+    
+}*/
+
+.projects{
+    text-align: center; 
+    margin:0 auto;
+    padding-top: 20px;
+}
+.cat-last{
+   border-radius: 100%;
+    padding-bottom:0;
+    padding-top: 20px;
+}
+.h2{
+    font-weight: bolder;
+    position: absolute;
+    top:33%;
+    bottom:50%;
+    transform: translate(-50%, -50%);
+    padding-left: 1350px;
+    
+}
+.edu{
+    text-align: center;
+   padding-top: 20px;
+}
+.skills{
+   text-align: center;
+}
+ul{
+    text-align: center;
+    width: 20%;
+    margin: auto;
+}
+
